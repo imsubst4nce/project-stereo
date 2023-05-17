@@ -12,5 +12,5 @@ The notebook contains complete documentation about the subject of the project, t
 
 ⚠ I do not own the stereo photos
 [Link](https://vision.middlebury.edu/stereo/data/scenes2014/)
-
+<br>
 > Special thanks to the creators of [DenseDepth](https://github.com/ialhashim/DenseDepth.git) and [MiDaS](https://github.com/isl-org/MiDaS.git)
