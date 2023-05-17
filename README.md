@@ -10,7 +10,7 @@ The notebook contains complete documentation about the subject of the project, t
 2. Using the left image create 2 different depth maps using DenseDepth and MiDaS pretrained models.
 3. Use 2 high-pass filters(Laplacian, Sobel) to test the previously generated disparity and depth maps in terms of edge-detection.
 
-> Special thanks to the creators of [DenseDepth](https://github.com/ialhashim/DenseDepth.git) and [MiDaS](https://github.com/isl-org/MiDaS.git)
-
-⚠ I do not own the photos
+⚠ I do not own the stereo photos
 [Link to photos](https://vision.middlebury.edu/stereo/data/scenes2014/)
+
+> Special thanks to the creators of [DenseDepth](https://github.com/ialhashim/DenseDepth.git) and [MiDaS](https://github.com/isl-org/MiDaS.git)
