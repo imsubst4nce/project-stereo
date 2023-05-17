@@ -11,6 +11,6 @@ The notebook contains complete documentation about the subject of the project, t
 3. Use 2 high-pass filters(Laplacian, Sobel) to test the previously generated disparity and depth maps in terms of edge-detection.
 
 ⚠ I do not own the stereo photos
-[Link to photos](https://vision.middlebury.edu/stereo/data/scenes2014/)
+[Link](https://vision.middlebury.edu/stereo/data/scenes2014/)
 
 > Special thanks to the creators of [DenseDepth](https://github.com/ialhashim/DenseDepth.git) and [MiDaS](https://github.com/isl-org/MiDaS.git)
